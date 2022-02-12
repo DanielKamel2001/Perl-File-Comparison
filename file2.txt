@@ -1,0 +1,4 @@
+welcome to a file
+this is file2.txt
+this is a file that is meant to be compared
+I like file1 more than file2
